@@ -1,0 +1,7 @@
+ticket_id,equipment,issue,priority
+101,Printer,Paper jam,High
+102,Router,Slow internet,Medium
+103,Scanner,Not detecting documents,Low
+104,Laptop,Battery not charging,High
+105,Projector,Display flickering,Medium
+106,Keyboard,Keys not working,Urgent
